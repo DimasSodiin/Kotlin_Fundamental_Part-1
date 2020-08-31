@@ -7,7 +7,7 @@ fun main(){
     }else if (nilaiDiBawahKkm > nilaiDiAtasKkm)
         "Nilai kamu 95, Selamat ya"
     else {
-        "nilai kamu 59, silahkan ikut remidial"
+        "nilai kamu 56, silahkan ikut remidial"
     }
     print(nilai)
 }
